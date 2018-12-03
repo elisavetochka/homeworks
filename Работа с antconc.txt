@@ -1,5 +1,0 @@
-#Total No. of Cluster Types: 3
-#Total No. of Cluster Tokens: 3
-1	1	1	believe it
-2	1	1	believed that
-3	1	1	believed the
